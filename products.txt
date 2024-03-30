@@ -1,0 +1,54 @@
+012901;Orange Juice Bottles;Juice;3;398;JuiceComp;1;1;20/1/2023
+011511;Learning Python;Books;50;51;FreeCodeOrg;1;40;25/2/2023
+033325;Laptop Computer;Electronics;800;30;TechZone;0;0;0/0/0
+045612;Blue T-shirt;Clothes;15;198;FashionCo;1;10;15/3/2023
+072934;Bluetooth Headphones;Gaming;60;97;SoundWave;1;45;10/4/2023
+091234;Coffee Maker;Electronics;45;74;Electronics;1;35;5/5/2023
+082351;Basketball AutoDevice;Electronics;400;33;SportsHaven;1;200;5/9/2023
+123456;ASUS ROG Laptop;Gaming;1600;1;ASUS CO.;1;1400;7/9/2023
+011565;Fantech Headphone;Gaming;50;35;COBRA Gaming;1;0;0/0/0
+033401;Orange Juice Bottles;Juice;2;60;JuiceCo.;1;0;0/0/0
+404505;Grape Juice;Juice;2;15;Cappy CO.;1;1;7/9/2023
+091502;Red Hoodie;Clothes;25;100;FashionZone;1;20;25/2/2023
+071209;Smartphone;Electronics;400;50;TechGadget;1;350;15/5/2023
+062312;Gaming Mouse;Gaming;30;80;GameTech;1;25;10/7/2023
+095678;Toaster;Electronics;20;60;Electronics;1;15;20/6/2023
+082134;Running Shoes;Clothes;40;120;SportsHaven;1;30;15/8/2023
+056789;Raspberry Pi;Electronics;35;20;TechZone;1;30;7/9/2023
+031234;Green Tea;Food;5;197;HealthyBites;1;4;30/12/2023
+012345;Chocolate Bar;Food;2;295;SweetTreats;1;2;15/3/2023
+041234;Gaming Keyboard;Gaming;50;50;GameTech;1;40;10/4/2023
+014321;Designer Dress;Clothes;70;60;FashionEmpire;1;60;25/2/2023
+072345;Coffee Beans;Food;8;150;CoffeeHeaven;1;7;10/4/2023
+093451;Wireless Earbuds;Electronics;35;80;SoundWave;1;30;5/9/2023
+082345;Designer Handbag;Clothes;80;40;FashionEmpire;1;70;15/3/2023
+057892;Gaming Chair;Gaming;120;20;GameTech;1;100;20/6/2023
+042134;Salad Bowl;Food;10;100;HealthyBites;1;9;7/9/2023
+063450;Smartwatch;Electronics;60;60;TechGadget;1;50;10/4/2023
+084512;Sneakers;Clothes;30;90;SportsHaven;1;25;15/8/2023
+022345;Green Smoothie;Juice;4;50;HealthyBites;1;3;25/2/2023
+099876;Gaming Console;Gaming;300;10;GameTech;1;250;20/1/2023
+059876;Hiking Boots;Clothes;50;75;AdventureGear;1;40;25/2/2023
+071222;Desktop Monitor;Electronics;150;25;TechZone;1;130;15/8/2023
+018654;E-book Reader;Electronics;80;40;ReadMore;1;70;10/4/2023
+066789;Game Controller;Gaming;20;100;GameTech;1;15;5/9/2023
+089045;Dining Table;Furniture;200;15;HomeFurnish;0;0;0/0/0
+045679;Rain Jacket;Clothes;40;60;AdventureGear;1;35;10/7/2023
+014567;Avocado;Food;2;296;HealthyBites;1;1;20/6/2023
+028975;Desktop Computer;Electronics;600;10;TechZone;0;0;0/0/0
+034512;Protein Powder;Food;20;100;HealthyBites;1;18;15/3/2023
+061234;Gaming Chair;Gaming;100;30;GameTech;1;85;10/4/2023
+088765;Yoga Mat;Gaming;15;50;ActiveLife;0;0;0/0/0
+091222;Gaming Keyboard;Gaming;40;50;GameTech;1;35;15/8/2023
+078912;Blender;Kitchen;25;40;KitchenTech;1;20;10/7/2023
+093456;Soccer Ball;Sports;15;80;SportsHaven;1;12;20/1/2023
+042345;Gaming Mouse;Gaming;30;69;GameTech;1;25;7/9/2023
+032134;Cotton T-shirt;Clothes;12;200;FashionCo;1;10;15/3/2023
+051234;Protein Bars;Food;5;100;HealthyBites;1;4;10/4/2023
+072342;Gaming Laptop;Gaming;1200;5;GameTech;1;1000;7/9/2023
+067890;Cooking Pot;Kitchen;20;40;KitchenTech;0;0;0/0/0
+095674;Gaming Monitor;Electronics;350;10;TechZone;1;300;20/6/2023
+333876;lemon juice;Juice;2;40;cappy co.;1;0;0/0/0
+588902;PUBG Steam;Gaming;30;49;COBRA Gaming;1;25;10/9/2023
+789123;Strawberry Icecream;Food;3;100;Al-Arz CO.;1;1;20/9/2023
+444333;water;Juice;2;0;cappy co.;1;1;14/9/2023

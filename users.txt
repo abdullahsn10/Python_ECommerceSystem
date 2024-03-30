@@ -1,0 +1,22 @@
+111222;Abdullah Sami;20/5/2002;admin;1;{};0
+120200;Abdelkarim Abuzaid;20/5/2002;shopper;0;{};0
+120111;Ahmad Wasel;5/2/2002;shopper;0;{};0
+888333;Yousef Ali;5/5/2022;shopper;1;{123456:5};1
+122333;Omar Ahmad;5/5/2003;shopper;1;{};0
+505222;Hamdan Ahmad;3/6/2004;shopper;1;{123456:1,045612:2};0
+112233;Fatima Hussein;10/8/1999;shopper;1;{033325:2};0
+098765;Ali Hassan;15/3/2000;shopper;0;{};0
+090909;Layla Omar;25/9/2001;shopper;1;{};0
+065432;Nour Ahmed;12/12/1998;shopper;1;{011511:55};1
+045678;Sara Khalid;8/4/1997;shopper;1;{};0
+033333;Khaled Saleh;7/7/2000;shopper;0;{};0
+076543;Hassan Ahmed;2/1/2001;shopper;1;{011565:1};0
+089090;Rima Mohammed;10/5/1999;shopper;1;{};0
+078901;Lina Samir;15/2/2002;shopper;0;{};0
+056789;Rami Adel;3/11/2001;shopper;1;{033325:1,072934:2};0
+012345;Leila Ahmed;20/7/1996;shopper;1;{404505:3};0
+019283;Maha Faisal;14/6/2003;shopper;1;{};0
+093751;Mazen Yassin;17/9/1997;shopper;0;{};0
+056123;Amir Saeed;28/4/2000;shopper;1;{};0
+774411;Ahmad Mohammad;2/6/2006;shopper;1;{123456:3,082351:3,072934:5};0
+303303;Tarek;20/2/2000;shopper;1;{};0
